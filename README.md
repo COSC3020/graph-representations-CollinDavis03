@@ -21,7 +21,7 @@ We will use _V_ as the vertices in this code. In this code, there is two loops o
 
 ## Sources 
 
-I looked at Caden's repo for an idea of how I would write my pseudocode. This is all my comments in my code. I also wanted to challenge myself to write it in one function. 
+The comments in my code are from me looking at Caden's repo and writing down the important things I need in my code. For instance, the comment about iterating each row of the matrix was a comment saying I need a loop that will iterate over the rows in the matrix/list. I had those comments down following the outline of his code, but I wrote the actual program myself. I did not copy any of his code at all; I just followed the outline of his code with comments on the important things needed for the assignment. I wrote everything myself. 
 
 ## Plagarism Statement
 
